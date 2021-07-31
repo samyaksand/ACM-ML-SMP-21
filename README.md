@@ -1,6 +1,6 @@
 # ACM-ML-SMP-21
 
-## Certificate of Completion
+## Certificate of Achievement
 
 ![ACM ML Certificate](https://user-images.githubusercontent.com/62803746/127733082-6bf28588-f4b2-4d69-8c7e-e7547692864b.jpg)
 
