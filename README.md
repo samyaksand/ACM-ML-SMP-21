@@ -27,3 +27,4 @@ This is a repository for the ML Summer Mentorship Program done by ACM NITK.
  - [Intro to KNN - TDS](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
  - [Intro to Recommender Systems](https://medium.com/sciforce/inside-recommendations-how-a-recommender-system-recommends-9afc0458bd8f)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamyaksand&count_bg=%2379C83D&title_bg=%23000000&icon=realm.svg&icon_color=%232BB2FF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
