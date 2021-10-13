@@ -1,4 +1,4 @@
-# K Nearest Neighbor Item Based Collaborative Filtering Movie Recommendation System
+# K-Nearest Neighbor Item Based Collaborative Filtering Movie Recommendation System
 
 ### [Python Notebook Code ](https://github.com/samyaksand/ACM-ML-SMP-21/blob/648d4a9359bb59666e3256ebcb2aaac96fdf8371/Samyak_MovieRecommendationSystem.ipynb)
 ### Dataset used - [The MovieLens Dataset - Kaggle](https://www.kaggle.com/rounakbanik/the-movies-dataset)
